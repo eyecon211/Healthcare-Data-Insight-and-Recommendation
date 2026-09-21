@@ -1,6 +1,6 @@
 # Healthcare-Data-Insight-and-Recommendation 
 
-### Project Overview
+## Project Overview
 This project analyzes hospital patient data to understand the patient journey, length of stay, readmission, mortality, and discharge pathways.
 
 
