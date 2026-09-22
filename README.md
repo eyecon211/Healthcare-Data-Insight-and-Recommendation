@@ -27,6 +27,7 @@ Which areas require further investigation?
 
 The purpose of this project is to transform the available hospital data into clear metrics, visualizations, and insights that make these questions easier to answer.
 
+
 ## Objectives
 
 The main objective of this project is to use data analytics to understand hospital operations and patient outcomes.
